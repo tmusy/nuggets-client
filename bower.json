@@ -1,0 +1,25 @@
+{
+  "name": "nuggets-client",
+  "homepage": "https://github.com/tmusy/nuggets-client",
+  "authors": [
+    "Thierry Musy <thierry.musy@gmail.com>"
+  ],
+  "description": "Frontend for nuggets",
+  "main": "",
+  "keywords": [
+    "finance",
+    "personal"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "crossfilter": "^1.3.12",
+    "d3": "^4.2.6"
+  }
+}
